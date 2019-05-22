@@ -5,4 +5,4 @@ quantum simulation, and the error involved in its implementation on the IBM-Q su
 code for simulations will be added overtime. Currently, only the adiabatic simulation done on qutip is availible. Notebook comments largely 
 only explain the code itself, for discussions of proper parameter selection and of the simulation methods themselves, please consult the paper.
 
-Jupyter Notebooks often have issues loading on github. If issues occur the html can be copy and pasted into the notebook viewer on jupyter website: https://nbviewer.jupyter.org/
+Jupyter Notebooks often have issues loading on github. If issues occur the adress of the notebook can be copy and pasted into the notebook viewer on the jupyter website: https://nbviewer.jupyter.org/
